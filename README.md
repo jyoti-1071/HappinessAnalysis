@@ -8,3 +8,5 @@ The Happiness Score is explained by the following factors:
   5)Generosity
   6)Corruption Perception
   7)Residual error
+After loding the datastes we combine the datasets to form one dataframe. After that some data cleaning process .
+After data cleaning data preprocessing is done and data analysis is done to get useful insights from the dataset.
